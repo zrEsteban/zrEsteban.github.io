@@ -3,7 +3,7 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<!-- 2020-12-29 mar 23:07 -->
+<!-- 2020-11-28 sáb 02:53 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Welcome to web page's Esteban Zamora</title>
@@ -161,19 +161,6 @@
   .footdef  { margin-bottom: 1em; }
   .figure { padding: 1em; }
   .figure p { text-align: center; }
-  .equation-container {
-    display: table;
-    text-align: center;
-    width: 100%;
-  }
-  .equation {
-    vertical-align: middle;
-  }
-  .equation-label {
-    display: table-cell;
-    text-align: right;
-    vertical-align: middle;
-  }
   .inlinetask {
     padding: 10px;
     border: 2px solid gray;
@@ -198,7 +185,7 @@
 @licstart  The following is the entire license notice for the
 JavaScript code in this tag.
 
-Copyright (C) 2012-2020 Free Software Foundation, Inc.
+Copyright (C) 2012-2018 Free Software Foundation, Inc.
 
 The JavaScript code in this tag is free software: you can
 redistribute it and/or modify it under the terms of the GNU
@@ -243,20 +230,19 @@ for the JavaScript code in this tag.
 <body>
 <div id="content">
 
-<div id="outline-container-orga1bb4fa" class="outline-2">
-<h2 id="orga1bb4fa">Secciones</h2>
-<div class="outline-text-2" id="text-orga1bb4fa">
+<div id="outline-container-org3eedd72" class="outline-2">
+<h2 id="org3eedd72">Secciones</h2>
+<div class="outline-text-2" id="text-org3eedd72">
 <ul class="org-ul">
 <li><a href="./pages/index_chartjs.html">chart.js example</a></li>
-<li><a href="http://gnundt.org/OrgMode-Presentations/DemoReveal.html">Presentacion de Reveal</a></li>
+<li><a href="./pages/index_ok.html">Presentacion de Reveal</a></li>
 <li><a href="./pages/test.html">default page</a></li>
 </ul>
 </div>
 </div>
-
-<div id="outline-container-org460452d" class="outline-2">
-<h2 id="org460452d">CV</h2>
-<div class="outline-text-2" id="text-org460452d">
+<div id="outline-container-orgaad8aae" class="outline-2">
+<h2 id="orgaad8aae">CV</h2>
+<div class="outline-text-2" id="text-orgaad8aae">
 <ul class="org-ul">
 <li><a href="./doc/CV.pdf">CV</a></li>
 </ul>
@@ -266,7 +252,7 @@ for the JavaScript code in this tag.
 <div id="postamble" class="status">
 <p class="author">Author: Esteban Zamora</p>
 <p class="email">Email: <a href="mailto:zr.esteban@gmail.com">zr.esteban@gmail.com</a></p>
-<p class="date">Created: 2020-12-29 mar 23:07</p>
+<p class="date">Created: 2020-11-28 sáb 02:53</p>
 <p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>
